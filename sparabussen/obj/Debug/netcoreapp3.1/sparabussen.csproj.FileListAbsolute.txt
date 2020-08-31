@@ -1,0 +1,13 @@
+C:\Users\Danne\source\repos\sparabussen\bin\Debug\netcoreapp3.1\sparabussen.exe
+C:\Users\Danne\source\repos\sparabussen\bin\Debug\netcoreapp3.1\sparabussen.deps.json
+C:\Users\Danne\source\repos\sparabussen\bin\Debug\netcoreapp3.1\sparabussen.runtimeconfig.json
+C:\Users\Danne\source\repos\sparabussen\bin\Debug\netcoreapp3.1\sparabussen.runtimeconfig.dev.json
+C:\Users\Danne\source\repos\sparabussen\bin\Debug\netcoreapp3.1\sparabussen.dll
+C:\Users\Danne\source\repos\sparabussen\bin\Debug\netcoreapp3.1\sparabussen.pdb
+C:\Users\Danne\source\repos\sparabussen\obj\Debug\netcoreapp3.1\sparabussen.csprojAssemblyReference.cache
+C:\Users\Danne\source\repos\sparabussen\obj\Debug\netcoreapp3.1\sparabussen.AssemblyInfoInputs.cache
+C:\Users\Danne\source\repos\sparabussen\obj\Debug\netcoreapp3.1\sparabussen.AssemblyInfo.cs
+C:\Users\Danne\source\repos\sparabussen\obj\Debug\netcoreapp3.1\sparabussen.dll
+C:\Users\Danne\source\repos\sparabussen\obj\Debug\netcoreapp3.1\sparabussen.pdb
+C:\Users\Danne\source\repos\sparabussen\obj\Debug\netcoreapp3.1\sparabussen.csproj.CoreCompileInputs.cache
+C:\Users\Danne\source\repos\sparabussen\obj\Debug\netcoreapp3.1\sparabussen.genruntimeconfig.cache
